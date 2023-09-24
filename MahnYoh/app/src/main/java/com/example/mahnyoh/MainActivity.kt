@@ -1,7 +1,10 @@
 package com.example.mahnyoh
 
+import android.content.Intent
 import android.os.Build
 import android.os.Bundle
+import android.widget.Button
+import android.widget.EditText
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.annotation.RequiresApi
@@ -20,5 +23,15 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.login)
+        var login = findViewById<Button>(R.id.login_button)
+        val email = findViewById<EditText>(R.id.eMail)
+        val password = findViewById<EditText>(R.id.passwords)
+        login.setOnClickListener {
+        val intent = Intent(this,Dashboard::class.java)
+            startActivity(intent)
+    }
+
     }
 }
+
+

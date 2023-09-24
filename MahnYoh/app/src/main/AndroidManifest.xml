@@ -12,12 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MahnYoh"
         tools:targetApi="31">
-
+        <activity
+            android:name=".Dashboard"
+            android:exported="false"
+            android:label="@string/title_activity_dashboard"
+            android:theme="@style/Theme.MahnYoh" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.MahnYoh" >
+            android:theme="@style/Theme.MahnYoh">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

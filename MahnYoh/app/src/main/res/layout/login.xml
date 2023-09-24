@@ -67,7 +67,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="41dp"
                     android:background="@drawable/custom_input"
-                    android:drawableLeft="@drawable/custom_profile"
+                    android:drawableLeft="@drawable/custom_email"
                     android:ems="10"
                     android:hint="Email"
                     android:inputType="textPersonName|textEmailAddress"
@@ -122,7 +122,7 @@
             </LinearLayout>
 
             <Button
-                android:id="@style/Button4"
+                android:id="@+id/login_button"
                 android:layout_width="126dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="70dp"
