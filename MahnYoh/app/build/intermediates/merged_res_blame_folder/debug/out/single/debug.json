@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_custom_input.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/custom_input.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_email_icon.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/email_icon.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_profile.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/profile.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_switch_trcks.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/switch_trcks.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_baseline_home_24.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.mahnyoh.app-merged_res-65:/layout_signup.xml.flat",
+        "source": "com.example.mahnyoh.app-main-67:/layout/signup.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_loginbackground.jpg.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/loginbackground.jpg"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_boy_girl_running.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/boy_girl_running.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_sprint.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/sprint.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_squat.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/squat.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_logo.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/logo.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_man_running.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/man_running.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_baseline_person_outline_24.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_lungsquat.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/lungsquat.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_switch_tumbs.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/switch_tumbs.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_baseline_logout_24.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/layout_dashboard.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/dashboard.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_running.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/running.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/layout_fragment_progress.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/fragment_progress.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_custom_profile.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/custom_profile.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_forest_night.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/forest_night.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_outline_home_24.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/outline_home_24.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/layout_login.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/login.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_cardio.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/cardio.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_custom_email.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/custom_email.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/layout_fragment_home.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_ic_facebook.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/ic_facebook.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_password_icon_focused.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/password_icon_focused.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_stretching.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/stretching.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_ic_google.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_progress.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/progress.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_ic_twitter.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/ic_twitter.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_shrub.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/shrub.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/layout_signup.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/signup.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_baseline_moving_24.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/baseline_moving_24.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_custom_lock.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/custom_lock.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/xml_backup_rules.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_email_icon_focused.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/email_icon_focused.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/menu_bottom_navigation_menu.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_password_icon.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/password_icon.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_forest.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/forest.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/drawable_sports.png.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/drawable/sports.png"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/layout_fragment_profile.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-merged_res-65:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.mahnyoh.app-mergeDebugResources-64:/layout/signup.xml",
+        "source": "com.example.mahnyoh.app-main-67:/layout/signup.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-mergeDebugResources-64:/layout/fragment_progress.xml",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/fragment_progress.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-mergeDebugResources-64:/layout/login.xml",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/login.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-mergeDebugResources-64:/layout/fragment_home.xml",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-mergeDebugResources-64:/layout/fragment_profile.xml",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-mergeDebugResources-64:/layout/dashboard.xml",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/dashboard.xml"
+    },
+    {
+        "merged": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-mergeDebugResources-64:/layout/signup.xml",
+        "source": "/home/sayem/.gradle/daemon/8.0/com.example.mahnyoh.app-main-67:/layout/signup.xml"
+    }
+]
